@@ -42,3 +42,5 @@ const PORT = process.env.PORT || 4404;
 app.listen(PORT, () => {
   console.log(`Server is dancing on port http://localhost:${PORT}`);
 });
+
+export default app;
