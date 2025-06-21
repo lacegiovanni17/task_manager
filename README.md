@@ -70,6 +70,6 @@ Contributions, issues, critics and feature requests are welcome!
 Please give a ⭐️ if you like this project! 
 
 ## Acknowledgments
-- Hat tip to fobework
+- Hat tip to smartrob
 - Inspiration to all devs
 - etc
