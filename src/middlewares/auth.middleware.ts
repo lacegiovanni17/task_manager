@@ -3,7 +3,7 @@ import jwt from 'jsonwebtoken';
 import User from "../modules/users/user.model";
 import { UserRoles, UserStatus } from '../modules/users/user.enum';
 
-type AuthUser = { user_id: string, email: string, user_role: string };
+type AuthUser = { user_id: string, email: string, user_role: UserRoles };
 
 interface AuthRequest extends Request {
     user?: AuthUser;
