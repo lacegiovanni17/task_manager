@@ -12,7 +12,7 @@ Whether you're tracking personal goals 🎯 or managing daily work tasks 🗂️
 ## About 
 * 👋 Hi, I’m Chidike Henry
 * 😎 I’m a backend developer
-* 💻 This is Task manager API, which I built that users manage their tasks 📋 efficiently and securely.
+* 💻 This is Task Manager API, which I built that users manage their tasks 📋 efficiently and securely.
 * 💞️ I’m looking to collaborate on JS and DevOps projects
 * 📫 How to reach me chidike.henry@gmail.com 
 
@@ -29,7 +29,11 @@ Whether you're tracking personal goals 🎯 or managing daily work tasks 🗂️
 * Postman 
 
 ## Getting Started
-## Mini-project   music_booking_api
+## Mini-project   task_manager_api 
+
+## Database pic 
+![task_managerDB](https://github.com/user-attachments/assets/f4c373a5-e387-451f-8819-fe3d564a611e)
+
 
 ## 🛠️ Key Skills Assessed
 
