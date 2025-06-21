@@ -1,6 +1,6 @@
-export interface IGenericResponse<T = any> {
+export interface IGenericResponseModel<T = any> {
     message?: string;
-    data?: T;
+    data: T;
     statusCode?: number;
     success?: boolean;
-}
+  }
